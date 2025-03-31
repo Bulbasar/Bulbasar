@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bulbasar</h1>
+<h1 align="center">Hi 👋, I'm Gerard Martin</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulbasar&label=Profile%20views&color=0e75b6&style=flat" alt="bulbasar" /> </p>
@@ -7,10 +7,12 @@
 
 - 🔭 I’m currently working on [HRIS](https://github.com/Eli-IT2023/HRIS-ELI.git)
 
-- 👯 I’m looking to collaborate on [Accounting](https://github.com/Eli-IT2023/accounting.git)
+- 👯 I’m collaborating on [Accounting](https://github.com/Eli-IT2023/accounting.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/facebook.com/gerardmrtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/gerardmrtn" height="30" width="40" /></a>
+<a href="https://instagram.com/instagram.com/gerardmrtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/gerardmrtn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
