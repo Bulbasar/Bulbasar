@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bulbasar" alt="bulbasar" /></a> </p>
 
-- 🔭 I’m currently working on [HRIS](https://github.com/Eli-IT2023/HRIS-ELI.git)
-
-- 👯 I’m collaborating on [Accounting](https://github.com/Eli-IT2023/accounting.git)
+- 👯 I’m working [Accounting](https://github.com/Eli-IT2023/accounting.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
